@@ -1,0 +1,34 @@
+body{
+    background: #333533;
+}
+
+section{
+    width: 1000px;
+    height: 400px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+h1{
+    text-align: center;
+    color: #CFDBD5;
+}
+
+div{
+    width: 200px;
+    height: 90%;
+    padding: 30px;
+    margin: 10px;
+    background: #CFDBD5;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+p{
+    background: #E8EDDF;
+    padding: 10px;
+    border-radius: 5px;
+    color: #242423;
+    font-weight: bold;
+}
